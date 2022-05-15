@@ -21,5 +21,5 @@ This code is based on [MLP-Mixer: An all-MLP Architecture for Vision](https://ar
 
 ---
 
-I didn't implement the last layer(prediction layer), because I don't need it until now.
-So plz refer to the appendix on the official paper.
+I didn't implement the last layer(prediction layer) because I don't need it until now.
+So plz refer to the appendix on the official paper when you want to add prediction layer.
